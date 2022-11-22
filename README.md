@@ -4,6 +4,7 @@ Usage: `python3 twitch.py CHANNEL_NAME`
 
 ## Dependencies
 [BeautifulSoup]() - `pip install beautifulsoup4` 
+
 [MPV](https://mpv.io/)
 
 ## To do
